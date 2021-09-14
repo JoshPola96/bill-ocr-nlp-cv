@@ -3,7 +3,7 @@ Curriculum Work / Artificial Intelligence
 
 #NLP, #CV, #Tesseract, #Pillow
 
-This project is created as per the curriculum requirement for the module Artificial Intelligence: It uses the a custom dataset of images of scanned bills in four different templates provided by a local company.
+This project is created as per the curriculum requirement for the module Artificial Intelligence: It uses a custom dataset of images of scanned bills in four different templates provided by a local company.
 
 All analytics and Machine Learning techniques are implemented in a single python Notebook deployed on Google Colab.
 
