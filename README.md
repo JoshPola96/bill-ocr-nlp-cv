@@ -1,6 +1,6 @@
 # Tesseract OCR Image Processing
 
-> **Scope** · Timeboxed technical assessment (short). Built to a brief under a fixed clock — scope decisions were deliberate.
+> **Scope** · Personal project, built on my own time. Not actively maintained — it is finished, not tended.
 
 > [!NOTE]
 > **Built 2021. The ecosystem has moved since.**
