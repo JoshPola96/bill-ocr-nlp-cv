@@ -1,15 +1,14 @@
 # Tesseract OCR Image Processing
 
-> **Scope** · Personal project, built on my own time. Not actively maintained — it is finished, not tended.
+> **Scope** · MSc coursework (Computer Vision) — published as-is.
 
 > [!NOTE]
 > **Built 2021. The ecosystem has moved since.**
 > Dependencies here are unpinned, so a clean `pip install` today resolves to
-> versions that did not exist when this was written and Theano/Lasagne is no longer maintained at all, while TensorFlow, Keras and scikit-learn have each had major releases. Expect install or
+> versions that did not exist when this was written and Tesseract, OpenCV and Pillow have each moved several major versions since. Expect install or
 > runtime breakage on a fresh environment. What is on offer is the engineering
 > approach and the decisions behind it, not a guaranteed-green build.
 > Happy to bring it current if that would be useful — just ask.
-Curriculum Work / Artificial Intelligence
 
 This project demonstrates how to use Tesseract OCR for extracting text from images. It processes a set of images of scanned bills and evaluates the accuracy of the OCR results.
 
