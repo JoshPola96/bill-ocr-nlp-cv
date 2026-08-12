@@ -1,4 +1,6 @@
 # Tesseract OCR Image Processing
+
+> **Scope** · Timeboxed technical assessment (short). Built to a brief under a fixed clock — scope decisions were deliberate.
 Curriculum Work / Artificial Intelligence
 
 This project demonstrates how to use Tesseract OCR for extracting text from images. It processes a set of images of scanned bills and evaluates the accuracy of the OCR results.
